@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CoinPickup.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BDE00A11-60BA-4D7E-A1E8-E17C64F50527}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CoinPickup.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CoinPickupEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CDD234F9-965E-40A8-8860-3191E8F3C05C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CoinPickup">
+      <UniqueIdentifier>{FA9F44F2-D730-4394-ABA5-0EF40FA76ED9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CoinPickup\CoinPickup.Build.cs">
+      <Filter>Source\CoinPickup</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CoinPickup\CoinPickup.cpp">
+      <Filter>Source\CoinPickup</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoinPickup\CoinPickup.h">
+      <Filter>Source\CoinPickup</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CoinPickup\EmptyClass.cpp">
+      <Filter>Source\CoinPickup</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CoinPickup\EmptyClass.h">
+      <Filter>Source\CoinPickup</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

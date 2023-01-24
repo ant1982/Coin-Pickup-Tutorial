@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CoinPickup",
+			"Path": "D:\\GitHub\\Coin-Pickup-Tutorial\\CoinPickup\\Source\\CoinPickup.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CoinPickupEditor",
+			"Path": "D:\\GitHub\\Coin-Pickup-Tutorial\\CoinPickup\\Source\\CoinPickupEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

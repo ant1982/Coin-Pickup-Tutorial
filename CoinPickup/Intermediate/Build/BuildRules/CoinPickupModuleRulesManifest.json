@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\Coin-Pickup-Tutorial\\CoinPickup\\Source\\CoinPickup\\CoinPickup.Build.cs",
+		"D:\\GitHub\\Coin-Pickup-Tutorial\\CoinPickup\\Source\\CoinPickup.Target.cs",
+		"D:\\GitHub\\Coin-Pickup-Tutorial\\CoinPickup\\Source\\CoinPickupEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

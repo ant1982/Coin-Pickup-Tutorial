@@ -1,0 +1,2 @@
+D:\GitHub\Coin-Pickup-Tutorial\CoinPickup\Intermediate\Build\Win64\UE4Editor\Development\CoinPickup\Definitions.CoinPickup.h
+D:\GitHub\Coin-Pickup-Tutorial\CoinPickup\Source\CoinPickup\EmptyClass.h

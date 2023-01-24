@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CoinPickup.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\Coin-Pickup-Tutorial\CoinPickup\Intermediate\Build\Win64\CoinPickupEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GitHub\Coin-Pickup-Tutorial\CoinPickup\Intermediate\Build\Win64\UE4Editor\Development\CoinPickup\CoinPickup.cpp.obj"
+"D:\GitHub\Coin-Pickup-Tutorial\CoinPickup\Intermediate\Build\Win64\UE4Editor\Development\CoinPickup\EmptyClass.cpp.obj"
+"D:\GitHub\Coin-Pickup-Tutorial\CoinPickup\Intermediate\Build\Win64\UE4Editor\Development\CoinPickup\Default.rc2.res"
+/OUT:"D:\GitHub\Coin-Pickup-Tutorial\CoinPickup\Intermediate\Build\Win64\UE4Editor\Development\CoinPickup\UE4Editor-CoinPickup.lib"
+/INCLUDE:IMPLEMENT_MODULE_CoinPickup
